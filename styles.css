@@ -38,7 +38,6 @@ body {
 }
 
 .player-progress {
-    
     position: absolute;
     inset-block-end: 0;
     inset-inline: 0;
@@ -58,6 +57,5 @@ body {
 }
 
 .player:hover .player-overlay {
-    border: 1px solid red;
     opacity: 1;
 }
